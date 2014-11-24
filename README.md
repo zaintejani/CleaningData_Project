@@ -12,7 +12,7 @@ The uploaded script run_analysis.R performs the following operations:
 
 - Reads the train and test datasets into R.  
 - Selects the measurements on the mean and standard deviation for each variable.  
-- Adds subject and activity indices to the raw data, as well as column names.  
+- Adds subject and activity indices to the data, as well as column names.  
 - Combines the two edited datasets into a single dataset in the narrow format.  
 - Substitues numerical labels for activity with word descriptions.  
 - Renames columns to a more descriptive format with complete words, to allow for easier subsetting.  
