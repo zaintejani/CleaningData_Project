@@ -51,7 +51,7 @@ for (i in 1:length(actLabels[[1]])){
 }
 
 ### RENAMING COLUMNS to DESCRIPTIVE LABELS ###
-stupid_vector<-c("Subject","Activity","Time Domain, Body Acceleration mean, x-direction",
+stupid_vector<-c("Subject","Activity","Time Domain, Body Acceleration, mean, x-direction",
                  "Time Domain, Body Acceleration, mean, y-direction",
                  "Time Domain, Body Acceleration, mean, z-direction",
                  "Time Domain, Gravity Acceleration, mean, x-direction",
